@@ -3,7 +3,7 @@ USE `sistema_biblioteca_simple`;
 -- MySQL dump 10.13  Distrib 5.7.17, for Win64 (x86_64)
 --
 -- Host: localhost    Database: sistema_biblioteca_simple
--- ------------------------------------------------------
+-- --------------------------------------------------------
 -- Server version	5.6.16
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
